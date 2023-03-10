@@ -1,0 +1,202 @@
+.container{
+    display: flex;
+}
+.foods{
+    display: flex;
+    /* margin-bottom: 200px; */
+}
+.cover img{
+    background-position: 50%;
+    /* height:400px; */
+    width: 500px;
+    margin-right: 900px;
+    padding-left: 500px;
+    padding-bottom: 40px;
+
+}
+.container{
+    background-color: whitesmoke; 
+    height: 50px;  
+   }
+   ol{
+       float: left;
+   }
+   ol li{
+       float: left;
+       width: 90px;
+       position: relative;
+       left: 35%;
+       display: flex;
+   }
+   ol li a{
+       text-decoration: none;
+       color: black;
+   }
+    /* .page3{
+    position: absolute;
+    top: 25%;
+    left: 7%;
+    display: flex;
+   }  */
+   .paragraph{
+        position: absolute;
+        top: 25%;
+        left: 7%;
+        color: black;
+   }
+   .page3{
+    display: flex; 
+   }
+   .images{
+    display: flex;
+   }
+
+   .button{
+    background-color:darkgoldenrod;
+    color: white;
+    padding: 3%;
+    margin-left: 100px;
+    border-radius: 10%;
+    margin: 20px,40px;
+    display: flex;
+}
+.container2{
+    margin-top: 0px;
+    margin-bottom: 0px; 
+    
+} 
+.image2{
+    height: 50px;
+    width: 200px;
+}
+
+   .container1{
+    display: flex;
+    flex-direction: row;
+   }
+   .images{
+    display: flex;
+   }
+   .image8{
+    height: 100px;
+    width: 900px;
+ }
+  .footer{
+    background-color: #222224;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }  
+  .page4{
+    display: flex;
+    /* height: 300px;
+    background-position:50% ; */
+    justify-content: center;
+    align-items: center;
+    gap: 500px;
+  }
+  .photo img{
+    width: 300%;
+    height: 50vh;
+  }
+   
+  
+    
+   .service{
+    display: flex;
+   }
+   .cultler{
+     height: 100px;
+
+   } 
+   button{
+    display: flex;
+    flex-direction: row;
+   }
+   .page9{
+    background-color: bisque;
+    background-size: cover;
+   }
+   
+   .page5{
+    margin-right:500px ;
+    padding-left: 100px;
+   }
+   .contaner{
+    width: 100%;
+    
+   }
+   #spoon{
+    width: 200px;
+    height: 200px;
+   }
+   #photo{
+    width: 100px;
+    height: 100px;
+   }
+   .monial{
+    /* margin-bottom: 400px; */
+    padding-top: 100px;
+    justify-content: center;
+    align-items: center;
+   }
+   #Map{
+    width: 100px;
+    height: 100px;
+    
+   }
+   .directory{
+    display: inline;
+    gap: 20px;
+    display: flex;
+   }
+    /* .quality img{
+    height: 10%;
+    width: 50%;
+    
+   
+   }
+   .discount  img{
+    width: 20%;
+    height: 90%;
+   }
+   .delivery img{
+    width:10% ;
+    height: 10%;
+   } */
+    
+  /* .box1{  
+    border: 1px yellow;
+    background-color: yellow;
+    height: 30px;
+}
+ ul{
+    float: left;
+    color: black;
+} 
+ ul li{
+    margin-top: -10px;
+    float: left;
+    position: relative;
+    left: 300%;
+    width: 100px;
+    font-size: 14px;
+    
+}
+ ul li a{ 
+    text-decoration: none;
+    color: black; 
+} */
+
+
+   
+  
+    
+   
+
+
+    
+
+
+    
